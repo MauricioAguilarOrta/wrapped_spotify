@@ -78,3 +78,5 @@ o simplemente ejecutando el script app.R.
 - La aplicación no depende de servicios externos ni de la API de Spotify.
 - Todo el procesamiento se realiza de forma local con los datos del usuario y sus propias rutas.
 - El script puede adaptarse fácilmente para agregar nuevas métricas o visualizaciones.
+
+Mi ejemplo personal se encuentra en: https://mauricioaguilarorta1992.shinyapps.io/spotify_wrapped/ (too much Interpol!)
